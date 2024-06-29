@@ -1,6 +1,6 @@
 # Node TypeScript Starter
 
-Starter template for a Node.js project using TypeScript. 
+Starter template for a Node.js project using TypeScript.
 
 It includes essential tooling like ESLint for code linting, Prettier for code formatting, and tsc-alias for TypeScript path alias resolution.
 
@@ -14,7 +14,7 @@ git clone https://github.com/dylanmooney/node-typescript-starter
 
 Install the dependencies:
 
-```
+```bash
 cd node-typescript-starter
 ```
 
